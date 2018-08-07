@@ -47,4 +47,4 @@ If you use this source code in your research, you must cite:
 ## License
 
 The source code is only used for non-commercial research purposes.
-
+* If you have any questions, suggestions or corrections, please email to tranhuyen1191@gmail.com. 
