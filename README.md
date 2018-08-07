@@ -36,7 +36,7 @@ Output:
 
 ## Authors
 
-* **Tran Huyen** - *The University of Aizu, Japan*
+* **Tran Huyen** - *The University of Aizu, Japan* - tranhuyen1191@gmail.com
 
 ## Acknowledgments
 
@@ -46,9 +46,5 @@ If you use this source code in your research, you must cite:
 
 ## License
 
-Permission is hereby granted, free of charge, to use the software for non-commercial research purposes.
+The source code is only used for non-commercial research purposes.
 
-Any other use of the software, including commercial use, merging, publishing, distributing, sublicensing, and/or selling copies of the Software, is forbidden.
-
-For a commercial license, you must contact the respective rights holders of the standards ITU-T Rec. P.1203, ITU-T Rec. P.1203.1, ITU-T Rec. P.1203.2, and ITU-T Rec. P.1203.3. See https://www.itu.int/en/ITU-T/ipr/Pages/default.aspx for more information.
- 
