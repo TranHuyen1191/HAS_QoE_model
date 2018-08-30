@@ -40,7 +40,7 @@ Output:
 
 ## Acknowledgments
 
-If you use this source code in your research, you must cite:
+If you use this source code in your research, please cite
 
 1. The link to this repository.
 
